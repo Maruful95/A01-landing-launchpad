@@ -74,3 +74,29 @@ nav {
     color: #252432;
     margin-bottom: 37px;
 }
+
+
+
+/*action section styles*/
+.action-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 116px 150px;
+}
+.action-title {
+  font-weight: 700;
+  font-size: 42px;
+  color: #252432;
+  margin-bottom: 23px;
+}
+.action-subtitle {
+  font-weight: 400;
+  font-size: 24px;
+  color: rgba(37, 36, 50, 0.5);
+  margin-bottom: 23px;
+}
+.action-image {
+  border-radius: 48px;
+  
+}
